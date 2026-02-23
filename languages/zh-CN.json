@@ -854,8 +854,6 @@
     "credentialEdit.credentialConfig.subtitle": "在 {appName} 中，当提示输入 OAuth 回调或重定向 URL 时，请使用上面的 URL",
     "credentialEdit.credentialConfig.theServiceYouReConnectingTo": "您要连接到的服务",
     "credentialEdit.credentialConfig.missingCredentialType": "此凭证的类型不可用。当卸载先前安装的社区或自定义节点时，通常会发生这种情况。",
-    "credentialEdit.credentialConfig.authTypeSelectorLabel": "使用以下方式连接",
-    "credentialEdit.credentialConfig.authTypeSelectorTooltip": "用于连接的身份验证方法",
     "credentialEdit.credentialConfig.recommendedAuthTypeSuffix": "（推荐）",
     "credentialEdit.credentialConfig.externalSecrets": "企业计划用户可以从外部保管库中提取凭证。",
     "credentialEdit.credentialConfig.externalSecrets.moreInfo": "更多信息",
