@@ -2272,7 +2272,6 @@
     "projectRoles.sourceControl.table.type": "类型",
     "projectRoles.sourceControl.table.assignedTo": "分配给",
     "projectRoles.sourceControl.table.lastEdited": "最后编辑于",
-    "projectRoles.backToRoleList": "返回角色列表",
     "projectRoles.newRole": "新角色",
     "projectRoles.addRole": "添加角色",
     "projectRoles.discardChanges": "放弃更改",
