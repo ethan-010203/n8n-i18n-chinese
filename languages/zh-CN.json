@@ -1773,7 +1773,6 @@
     "nodeCredentials.createNew": "创建新凭证",
     "nodeCredentials.createNew.permissionDenied": "你当前的角色不允许你创建凭据。",
     "nodeCredentials.credentialFor": "{credentialType} 的凭证",
-    "nodeCredentials.credentialsLabel": "要连接的凭证",
     "nodeCredentials.issues": "问题",
     "nodeCredentials.selectCredential": "选择凭证",
     "nodeCredentials.selectedCredentialUnavailable": "{name}（不可用）",
